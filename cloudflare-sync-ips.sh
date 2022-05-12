@@ -5,7 +5,7 @@ CF_ONLY=false
 help() {
     echo "Get real visitor IP address and block all ips except from Cloudflare."
     echo
-    echo "Syntax: ./$0 --[help|cf-only]"
+    echo "Syntax: $0 --[help|cf-only]"
     echo
     echo "options:"
     echo "--help     Print this Help."
